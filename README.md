@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I’m A  
+# 👋 Hey, I’m Aziz
 ### Web Developer • Cybersecurity Enthusiast • Docker Practitioner
 
 I enjoy building things for the web, securing systems, and containerizing workflows.  
