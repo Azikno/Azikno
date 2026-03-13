@@ -38,8 +38,8 @@ Strengthening cybersecurity fundamentals • Containerized server setups
 ---
 
 ## 🌐 Connect With Me  
-(Add your links here)  
-Portfolio • LinkedIn • Email  
+
+ <a href=”https://www.linkedin.com/in/abdulaziz-zourob?originalSubdomain=be”>• LinkedIn •</a>
 
 ---
 
