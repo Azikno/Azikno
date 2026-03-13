@@ -1,41 +1,51 @@
-👋 Hi, I’m Aziz
-Web Developer • Cybersecurity Enthusiast • Docker Explorer
-I enjoy building things for the web, securing systems, and containerizing everything I can. My projects usually mix curiosity, problem‑solving, 
-and a desire to understand how systems behave behind the scenes.
+<div align="center">
 
-🚀 What I’m Interested In
-- Web Development — front‑end, back‑end, APIs, full‑stack experiments
-- Cybersecurity — ethical hacking, system hardening, digital forensics
-- Docker & DevOps — containers, images, clean deployments
-- Linux — scripting, automation, system administration
-- Networking — protocols, traffic analysis, secure communication
+# 👋 Hey, I’m A  
+### Web Developer • Cybersecurity Enthusiast • Docker Practitioner
 
-🛠️ Tech Stack
-Languages & Tools
-- HTML, CSS, JavaScript
-- Python, Bash
-- Docker, Docker Compose
-- Linux (Ubuntu, Debian, Kali)
-- Git & GitHub
-- Nginx
+I enjoy building things for the web, securing systems, and containerizing workflows.  
+My projects blend curiosity, problem‑solving, and a drive to understand how systems behave behind the scenes.
 
-Cybersecurity Interests
-- Vulnerability analysis
-- CTF challenges
-- OSINT
-- Secure coding practices
+---
 
-📌 Current Focus
-- Building cleaner, more scalable web apps
-- Learning advanced Docker workflows
-- Improving my cybersecurity fundamentals
-- Experimenting with secure server setups and containerized environments
+## 🔥 Interests
+**Web Development • Cybersecurity • Docker • Linux • Networking**
 
-![A's GitHub stats](https://github-readme-stats.vercel.app/api?username=Azikno&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Azikno&layout=compact&theme=tokyonight)
+---
 
-✨ Fun Facts
-- I learn best by experimenting and iterating
-- I enjoy solving ambiguous hardware problems
-- I like mixing hands‑on electronics with clean software design
+## 🛠️ Tech Stack
 
+### Languages & Tools  
+HTML • CSS • JavaScript • Python • Bash  
+Docker • Docker Compose • Linux • Git • GitHub • Nginx • Node.js  
+
+### Cybersecurity Focus  
+Vulnerability Analysis • CTFs • OSINT • Secure Coding
+
+---
+
+## 🚀 Current Focus  
+Building scalable web apps • Learning advanced Docker workflows  
+Strengthening cybersecurity fundamentals • Containerized server setups
+
+---
+
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=Azikno&show_icons=true&theme=tokyonight" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azikno&layout=compact&theme=tokyonight" height="160" />
+
+---
+
+## 🌐 Connect With Me  
+(Add your links here)  
+Portfolio • LinkedIn • Email  
+
+---
+
+## ⚡ Fun Facts  
+I love breaking things to understand them  
+I learn best through hands‑on experimentation  
+Always exploring new tools, frameworks, and security techniques  
+
+</div>
