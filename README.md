@@ -1,6 +1,7 @@
 👋 Hi, I’m Aziz
 Web Developer • Cybersecurity Enthusiast • Docker Explorer
-I enjoy building things for the web, securing systems, and containerizing everything I can. My projects usually mix curiosity, problem‑solving, and a desire to understand how systems behave behind the scenes.
+I enjoy building things for the web, securing systems, and containerizing everything I can. My projects usually mix curiosity, problem‑solving, 
+and a desire to understand how systems behave behind the scenes.
 
 🚀 What I’m Interested In
 - Web Development — front‑end, back‑end, APIs, full‑stack experiments
