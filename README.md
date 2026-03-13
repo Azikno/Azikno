@@ -39,7 +39,7 @@ Strengthening cybersecurity fundamentals • Containerized server setups
 
 ## 🌐 Connect With Me  
 
- <a href=”https://www.linkedin.com/in/abdulaziz-zourob?originalSubdomain=be”>• LinkedIn •</a>
+ <a href="https://www.linkedin.com/in/abdulaziz-zourob?originalSubdomain=be">• LinkedIn •</a>
 
 ---
 
